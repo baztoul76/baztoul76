@@ -14,7 +14,7 @@
 
 
 ### pour les fr :
-- j'aurais besoin d'aide de développeurs Java (JFrame) pour le launcher
+- j'aurais besoin d'aide de développeurs Java (x swing et awt) pour le launcher
 - j'ai aussi besoin de développeurs JavaScript (site web) et PHP
 
 
