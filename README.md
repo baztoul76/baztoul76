@@ -4,13 +4,13 @@
 - 📫 you can contact me on [Discord](https://discord.com) (baztoul76#7201)
 
 ### My competences :
-1. programming languages :
-- Java
-- Python
-- C++
-- HTML/CSS (CSS animations)
-- Javascript (a little)
-- PHP/MySQL (a little)
+- programming languages :
+  - Java
+  - Python
+  - C++
+  - HTML/CSS (+CSS animations)
+  - Javascript
+  - PHP/MySQL (a little)
 
 
 ### pour les fr :
