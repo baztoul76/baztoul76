@@ -1,6 +1,6 @@
 ## Hi there 👋 !
 
-- 🔭 I'm currently working on **Feurium**, but shhht...
+- 🔭 I'm currently working on [**Feurium**](https://github.com/FeuriumGitHub), but shhht...
 - 📫 you can contact me on [Discord](https://discord.com) (baztoul76#7201)
 
 ### My competences :
