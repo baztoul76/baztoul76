@@ -10,7 +10,7 @@
   - C++
   - HTML/CSS (+CSS animations)
   - Javascript
-  - PHP/MySQL (a little)
+  - PHP/MySQL (+ object-oriented)
 
 
 ### pour les fr :
